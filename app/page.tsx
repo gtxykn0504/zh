@@ -39,7 +39,7 @@ export default function Home() {
           </div>
         </div>
         <div className="text-2xl mt-3 text-light font-light">
-          I am a developer creator designer.
+          Student / Creator
         </div>
         <div className="flex text-2x mt-3 text-lightest font-light">
           <FontAwesomeIcon icon={faEnvelope} width={"16px"} />
