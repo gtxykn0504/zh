@@ -33,17 +33,17 @@ export default function Home() {
               className="font-semibold relative z-10 after:absolute after:top-[50%] after:bg-mark
                         after:w-[100%] after:h-[50%] after:left-0 after:z-[-1]"
             >
-              Zhanghe
+              Zhang He
             </span>
             .
           </div>
         </div>
         <div className="text-2xl mt-3 text-light font-light">
-          An ordinary student
+          I'm a developer, creator, designer.
         </div>
         <div className="flex text-2x mt-3 text-lightest font-light">
           <FontAwesomeIcon icon={faEnvelope} width={"16px"} />
-          <span className="ml-2">i@zhang.he.cn</span>
+          <span className="ml-2">he@zhang.he.cn</span>
           
         </div>
         <div className="mt-4">
