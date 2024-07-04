@@ -1,19 +1,5 @@
-<link rel='stylesheet' href='https://fonts.cdnfonts.com/css/nunito' />
-<link rel='stylesheet' href='https://chinese-fonts-cdn.deno.dev/chinesefonts3/packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css' />
-<style>
-  :root {
-    --base-font-family: 'Nunito', 'LXGW WenKai', sans-serif !important;
-    --content-font-family: 'Nunito', 'LXGW WenKai', sans-serif !important;
-    --heading-font-family: 'Nunito', 'LXGW WenKai', sans-serif !important;
-    --heading-font-weight: 'Nunito', 'LXGW WenKai', sans-serif !important;
-  }
-  div {
-    --base-font-family: 'Nunito', 'LXGW WenKai', sans-serif !important;
-    --content-font-family: 'Nunito', 'LXGW WenKai', sans-serif !important;
-    --heading-font-family: 'Nunito', 'LXGW WenKai', sans-serif !important;
-    --heading-font-weight: 'Nunito', 'LXGW WenKai', sans-serif !important;
-  }
-</style>
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faEnvelope, faKey } from "@fortawesome/free-solid-svg-icons";
 
 function ButtonPrimary({ text, link }: { text: string; link: string }) {
   return (
