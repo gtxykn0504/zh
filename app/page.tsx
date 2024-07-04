@@ -26,7 +26,7 @@ export default function Home() {
     <main className="flex justify-center items-center h-screen w-screen">
       <div>
         <div className="text-4xl">
-          <div>Hey👋</div>
+          <div>Hey</div>
           <div>
             I&apos;m{" "}
             <span
@@ -39,7 +39,7 @@ export default function Home() {
           </div>
         </div>
         <div className="text-2xl mt-3 text-light font-light">
-          I'm a developer, creator, designer.
+          Student / Technophile
         </div>
         <div className="flex text-2x mt-3 text-lightest font-light">
           <FontAwesomeIcon icon={faEnvelope} width={"16px"} />
