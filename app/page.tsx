@@ -43,7 +43,7 @@ export default function Home() {
         </div>
         <div className="flex text-2x mt-3 text-lightest font-light">
           <FontAwesomeIcon icon={faEnvelope} width={"16px"} />
-          <span className="ml-2">hey@zhang.he.cn</span>
+          <span className="ml-2">hey@zhhe.dev</span>
           
         </div>
         <div className="mt-4">
